@@ -1,7 +1,7 @@
 # Talker chat.
 
 Please visit following address:
-https://talkerchat.render.com/
+[https://talkerchat.render.com/](https://talker-chat.onrender.com/)
 
 This is basic chatting app, In which user can join by enter there name and can start chat to anybody who is in the chatroom, it is one to many communication chat app.
 
